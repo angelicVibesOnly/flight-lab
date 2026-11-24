@@ -7,8 +7,7 @@
 
 ## Conversation links
 
-- Link 1: [paste the share link to the Claude chat from 24 Nov 2026]
-- Link 2: [add a link for any other AI conversation about this lab, or delete this line]
+- Link 1:https://claude.ai/share/16211c2d-838e-4305-a663-413af115a4cb
 
 ## What I used them for
 
